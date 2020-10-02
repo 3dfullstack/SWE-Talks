@@ -10,6 +10,7 @@ public:
         cout << "destroy";
     }
 };
+
 int main()
 {
     vector<a *> *v1 = new vector<a *>;
@@ -19,4 +20,4 @@ int main()
     return 0;
 }
 
-// Why distructor not called?
+// Why destructor not called?

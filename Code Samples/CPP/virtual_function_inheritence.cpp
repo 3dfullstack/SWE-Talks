@@ -9,7 +9,8 @@ class Base
 public:
 	Base()
 	{
-		fun(); //note: fun() is virtual
+		// note: fun() is virtual => What do you want to demonstrate here?
+		fun();
 	}
 	virtual void fun()
 	{
