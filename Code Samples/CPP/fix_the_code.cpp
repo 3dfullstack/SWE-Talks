@@ -4,7 +4,7 @@
 /* Fix the code below */
 int main(void)
 {
-    char **name = ["Sumit Lahiri"];
+    char *name = "Sumit Lahiri";
     printf("Name is %s", *name);
     return 0;
 }

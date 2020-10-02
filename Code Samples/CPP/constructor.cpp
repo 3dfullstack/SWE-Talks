@@ -8,22 +8,26 @@ private:
 
 public:
 	Point();
-	Point(int i, int j); // Constructor
+
+	/// Constructor @param int, @param int
+	Point(int i, int j);
 };
 
 Point::Point(int i = 0, int j = 0)
-{ // Doubt: When both i=0 and j=0, it act like Point()?
+{
+	// Doubt: When both i = 0 and j = 0, it act like Point()? => No. Refer discussion.
 	x = i;
 	y = j;
-	cout << "Parameterized constructo called";
+	cout << "Parameterized constructor called";
 }
 Point::Point()
 {
-	cout << "Defaulted. constructo called";
+	cout << "Default constructor called";
 }
 
 int main()
 {
-	Point t1, *t2;
+	// No ambiguity in choosing the right constructor here.
+	Point t1(), *t2;
 	return 0;
 }
