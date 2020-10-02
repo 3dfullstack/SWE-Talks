@@ -6,7 +6,7 @@
             "label": "C/C++: g++ build active file",
             "command": "/usr/bin/g++",
             "args": [
-                "-std=gnu++14",
+                "-std=gnu++17",
                 "-g",
                 "${file}",
                 "-pthread",
