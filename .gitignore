@@ -67,3 +67,12 @@ fastlane/test_output
 
 iOSInjectionProject/
 
+
+**/build
+**/tests
+
+*.out
+*.a
+*.cxx
+*.o
+
