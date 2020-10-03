@@ -66,13 +66,12 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+.vscode/**
 
-
-**/build
-**/tests
+build/**
+tests/**
 
 *.out
 *.a
 *.cxx
 *.o
-
