@@ -75,3 +75,4 @@ tests/**
 *.a
 *.cxx
 *.o
+*.exe
