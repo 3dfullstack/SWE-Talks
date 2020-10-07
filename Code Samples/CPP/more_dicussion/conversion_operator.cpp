@@ -12,7 +12,7 @@ private:
 class B { 
 public: 
 	B(int xx) : x(xx) {} 
-	operator A() const { return A(x); } 
+	operator A() const { return A(x); } // ?? 
 private: 
 	int x; 
 }; 
@@ -21,10 +21,12 @@ void g(A a)
 { a.show(); } 
 
 int main() { 
-B b(10); 
-g(b); 
+B b(10); // creating an obj. of B, x = 10
+g(b); //
 g(20); 
 getchar(); 
 return 0; 
 } 
 
+// SOLLID-> L prinicple.
+// next discussion.
