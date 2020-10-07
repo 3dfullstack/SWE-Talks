@@ -1,26 +1,24 @@
-#include<iostream> 
-using namespace std; 
+#include <iostream>
+using namespace std;
 
-class X 
-{ 
-	static const int x = 4; // Why compiler does not allow in-class initialization.
-	//   int x = 4;
+class X
+{
+	// static const int x = 4;
+	// Why compiler does not allow in-class initialization? => Depends, object specific runtime stuff not allowed.
+	int x = 4;
 	// Why does it need to be constant.
-public: 
-	static int getValue(){return x;}
-	//  int getValue(){return x;}
-
+public:
+	// static int getValue(){return x;}
+	int getValue() { return x; }
 };
 
-int main() 
-{ 
+int main()
+{
 	X x;
 	cout << x.getValue();
-	cout << X::getValue();// Only after you mamke getValue static.
-	return 0; 
-} 
+	// cout << X::getValue();
+	// Only after you mamke getValue static.
+	return 0;
+}
 // Why because it worked !
-// Generally, it is not allowed to initialize data members in C++ class declaration for static.
-// cannot initialize somthing class specific like static.
-
-
+// Generally, it is not allowed to initialize data members in C++ class declaration => depends, think at obejct level and class level
