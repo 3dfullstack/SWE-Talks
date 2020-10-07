@@ -20,9 +20,14 @@ public:
 
 class Derived : public Base
 {
+	Base *a;
 public:
-	Derived() {}
-	virtual void fun()
+	Derived() {
+		cout << "Destructing";
+		delete this;
+		this -> a = new Base();
+	}
+  void fun() override
 	{
 		cout << "\nDerived Function";
 	}
@@ -31,9 +36,10 @@ public:
 int main()
 {
 	// Base* pBase = new Derived();// base function
-	Derived *pBase = new Derived(); //DOUBT.  Also base function !!
+	Base *pBase = new Derived(); //DOUBT.  Also base function !!
 	// Base* pBase = new Base() ; // Base fucntion
-	// Derived* pBase = new Base() ; // error, as only base can be used.
+	// Derived *pBase1 = new Base() ; // error, as only base can be used.
+	pBase -> fun();
 	delete pBase;
 	return 0;
 }
