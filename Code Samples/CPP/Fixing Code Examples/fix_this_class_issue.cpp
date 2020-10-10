@@ -79,6 +79,7 @@ public:
         std::cout << "[Point] Printing a point : (" << this->_x << ", " << this->_y << ")" << std::endl;
     }
 
+    /// @brief Do some kind of serialization to string.
     operator string()
     {
         std::string _str = "";
@@ -99,6 +100,7 @@ int main(void)
     std::string str = concrete_point;
     base *new_base = std::static_cast<point *>(concrete_point);
 
+    // FIXME : Not Intended.
     auto component_sum = [](int a, int b) -> int {
         return a + b;
     };
