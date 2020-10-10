@@ -76,3 +76,9 @@ tests/**
 *.cxx
 *.o
 *.exe
+
+code.cpp
+check.cpp
+.vscode/settings.json
+.vscode/settings.json
+*.json
