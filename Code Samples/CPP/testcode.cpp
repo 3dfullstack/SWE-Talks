@@ -4,6 +4,7 @@
 #include <memory>
 #include <random>
 
-int main () {
+int main()
+{
   return 0;
 }
