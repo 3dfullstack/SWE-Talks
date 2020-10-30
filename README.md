@@ -7,7 +7,7 @@ Software Engineering, Simple Projects, Data Structures, Algorithms, Tech Talks, 
 
 ## Simple Git Question 
 
-![SimpleGit](https://raw.githubusercontent.com/codersguild/SWE/master/Design%20Discussions/Github%20Immplementation.PNG)
+![SimpleGit](https://raw.githubusercontent.com/codersguild/SWE/master/Design%20Discussions/Github%20Implementation.PNG)
 
 ## Solving Session : 
 
