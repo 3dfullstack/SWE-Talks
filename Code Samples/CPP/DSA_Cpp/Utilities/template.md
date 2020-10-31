@@ -1,0 +1,14 @@
+    cout << "Initiate " << endl;
+    cout << "Add / Insert  " << endl;
+    cout << "Check Size " << endl;
+    cout << "Access front/ back / middle element  " << endl;
+    cout << "Getting Index /iterator, Adding iterator  " << endl;
+    cout << "Algorithms : searching, sorting, max/min, Sum,Erase, Mics" << endl;
+        cout << "   Find" << endl;  
+        cout << "   Reverse " << endl; 
+        cout << "   Sort " << endl;
+        cout << "   Max_element" << endl;  
+        cout << "   Accumulation" << endl;  
+        cout << "   Count" << endl;    
+    cout << "Removing/ deleting / poping elememnts.  " << endl;
+    cout << "Checking if empty" << endl;
