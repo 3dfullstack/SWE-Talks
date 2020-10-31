@@ -66,7 +66,8 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
-.vscode/**
+
+.vscode/
 
 build/**
 tests/**
@@ -77,8 +78,3 @@ tests/**
 *.o
 *.exe
 
-code.cpp
-check.cpp
-.vscode/settings.json
-.vscode/settings.json
-*.json
