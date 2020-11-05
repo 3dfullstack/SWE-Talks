@@ -1,5 +1,4 @@
-## Code Snippets 
+# Code Snippets
 
--  cplusplus : For C++ Code
--  python : For Python Code
-
+- cplusplus : For C++ Code
+- python : For Python Code
