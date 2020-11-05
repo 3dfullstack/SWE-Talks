@@ -1,5 +1,5 @@
-# SWE
-Software Engineering, Simple Projects, Data Structures, Algorithms, Tech Talks, SDE, SRE Stuff. Be a SWE, one code at a time. 
+# Software is cool !!
+Software Engineering, 👨‍💻 Data Structures, Algorithms, Tech Talks, SDE, SRE Stuff. 🧑‍💻 Be an SWE, one code at a time. 🤪
 
 ## Code Projects : [Reference : Packrat Parser](https://github.com/taocpp/PEGTL)
 
