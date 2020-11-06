@@ -1,6 +1,10 @@
 # Software is cool !!
 Software Engineering, 👨‍💻 Data Structures, Algorithms, Tech Talks, SDE, SRE Stuff. 🧑‍💻 Be an SWE, one code at a time. 🤪
 
+## Teaser Questions - 156
+
+![disjoint_set](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/graph.png)
+
 ## Software Project : [Reference : Packrat Parser](https://github.com/taocpp/PEGTL)
 
 Implement a GLL Parser for mathjax.
@@ -14,5 +18,3 @@ Implement a GLL Parser for mathjax.
 ## Some PS/DS Stuff : 
 
 ![disjoint_set](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/disjoint_set.png)
-
-![disjoint_set](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/graph.png)
