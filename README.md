@@ -11,6 +11,8 @@ Implement a GLL Parser for mathjax.
 
 ![SimpleGit](https://raw.githubusercontent.com/codersguild/SWE/master/Design%20Discussions/Github%20Implementation.PNG)
 
-## Solving Session : 
+## Some PS/DS Stuff : 
 
-![Teaser](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/session-5/design.jpeg)
+![disjoint_set](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/disjoint_set.png)
+
+![disjoint_set](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/graph.png)
