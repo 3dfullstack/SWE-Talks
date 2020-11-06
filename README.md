@@ -1,7 +1,9 @@
 # Software is cool !!
 Software Engineering, 👨‍💻 Data Structures, Algorithms, Tech Talks, SDE, SRE Stuff. 🧑‍💻 Be an SWE, one code at a time. 🤪
 
-## Code Projects : [Reference : Packrat Parser](https://github.com/taocpp/PEGTL)
+## Software Project : [Reference : Packrat Parser](https://github.com/taocpp/PEGTL)
+
+Implement a GLL Parser for mathjax.
 
 ![ASTExpr Project](https://raw.githubusercontent.com/codersguild/SWE/master/Code%20Project/exprclass.PNG)
 
