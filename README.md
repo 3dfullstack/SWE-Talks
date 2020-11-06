@@ -1,9 +1,9 @@
 # Software is cool !!
 Software Engineering, 👨‍💻 Data Structures, Algorithms, Tech Talks, SDE, SRE Stuff. 🧑‍💻 Be an SWE, one code at a time. 🤪
 
-## Teaser Questions - 156
+## Teaser Questions - 20
 
-![disjoint_set](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/graph.png)
+![teaser-156](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/teaser_156.png)
 
 ## Software Project : [Reference : Packrat Parser](https://github.com/taocpp/PEGTL)
 
