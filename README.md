@@ -1,7 +1,7 @@
 ## Software Development is awesome
 Software Engineering, 👨‍💻 Data Structures, Algorithms, Tech Talks, SDE, SRE Stuff. 🧑‍💻 Be an SWE, one code at a time.
 
-## Sample Teaser Questions - 20
+## Sample Teaser Question
 
 ![teaser-156](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/teaser_156.png)
 
