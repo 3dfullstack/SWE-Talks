@@ -3,18 +3,24 @@ Software Engineering, 👨‍💻 Data Structures, Algorithms, Tech Talks, SDE, 
 
 ## Sample Teaser Question
 
-![teaser-156](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/teaser_156.png)
+We discuss bug-fixes, teaser questions, debugging pangs and lots more !!!. 
+
+![teaser-156](https://raw.githubusercontent.com/codersguild/SWE-Talks/master/Discussion%20Images/Assets/teaser_156.png)
 
 ## Software Project : [Reference : Packrat Parser](https://github.com/taocpp/PEGTL)
 
-Implement a GLL Parser for mathjax.
+Implement a GLL Parser for mathjax (A sample project we will choose to learn and implement things the SWE Way).
 
-![ASTExpr Project](https://raw.githubusercontent.com/codersguild/SWE/master/Code%20Project/exprclass.PNG)
+![ASTExpr Project](https://raw.githubusercontent.com/codersguild/SWE-Talks/master/Code%20Project/exprclass.PNG)
 
-## Simple Git Question 
+## Some Design Discussions
 
-![SimpleGit](https://raw.githubusercontent.com/codersguild/SWE/master/Design%20Discussions/Github%20Implementation.PNG)
+- How you design a given feature? 
+- What things that you feel have a high possibility of failing? 
+- List out the complexities involved. 
+- What frameworks will you use?
+- In-house or outsourced?
+- Infrastructure Requirements? 
+- Development & Deployment Models
 
-## Some PS/DS Stuff : 
-
-![disjoint_set](https://raw.githubusercontent.com/codersguild/SWE/master/Discussion%20Images/Assets/disjoint_set.png)
+![SimpleGit](https://raw.githubusercontent.com/codersguild/SWE-Talks/master/Design%20Discussions/Github%20Implementation.PNG)
