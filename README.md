@@ -1,13 +1,13 @@
 ## Software Development is awesome
 Software Engineering, 👨‍💻 Data Structures, Algorithms, Tech Talks, SDE, SRE Stuff. 🧑‍💻 Be an SWE, one code at a time.
 
-## Sample Teaser Question
+## Teaser Questions
 
 We discuss bug-fixes, teaser questions, debugging pangs and lots more !!!. 
 
 ![teaser-156](https://raw.githubusercontent.com/codersguild/SWE-Talks/master/Discussion%20Images/Assets/teaser_156.png)
 
-## Software Project : [Reference : Packrat Parser](https://github.com/taocpp/PEGTL)
+## Software Projects : [Reference : Packrat Parser](https://github.com/taocpp/PEGTL)
 
 Implement a GLL Parser for mathjax (A sample project we will choose to learn and implement things the SWE Way).
 
